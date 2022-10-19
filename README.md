@@ -1,7 +1,6 @@
 ### Olá! Sou a Jade Simões 👋
 - ✨ Sou Designer Gráfica.
 - 🌱 Atualmente estou estudando Desenvolvimento Web Front-End com HTML, CSS e JavaScript.
-- Estou participando do Bootcamp elasNaTech organizado pela JA Brasil em parceria com a CCR.
 - Tenho conhecimentos em UI/UX Design e busco sempre aplicar seus princípios em meus projetos.
 
 <div>
