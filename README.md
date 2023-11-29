@@ -1,7 +1,7 @@
 ### Olá! Sou a Jade Simões 👋
-- ✨ Sou Designer Gráfica.
-- 🌱 Atualmente estou estudando Desenvolvimento Web Front-End com HTML, CSS e JavaScript.
-- Tenho conhecimentos em UI/UX Design e busco sempre aplicar seus princípios em meus projetos.
+- ✨ Sou Designer Gráfica em migração para Product Design.
+- 🌱 Tenho conhecimentos sobre Desenvolvimento Web Front-End com HTML, CSS e JavaScript.
+- Entusiasta de UI/UX Design e busco sempre aplicar seus princípios em meus projetos.
 
 <div>
   <a href="https://github.com/jadesi">
